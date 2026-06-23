@@ -1,2 +1,2 @@
 # MyProject
-This is my first Git Rdeposity.
+This is my first Git Reposity.
